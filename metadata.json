@@ -1,0 +1,5 @@
+{
+  "name": "DevAgent AI",
+  "description": "An agentic AI-powered suite for automated testing, debugging, code review, and refactoring.",
+  "requestFramePermissions": []
+}
