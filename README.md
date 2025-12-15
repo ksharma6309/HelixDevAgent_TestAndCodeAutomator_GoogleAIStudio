@@ -100,6 +100,39 @@ We chose **Google AI Studio** and the **Gemini 2.5 Flash** model as the core eng
 └── README.md
 ```
 
+
+---
+
+## 📷 Screenshots
+
+**Dashboard - **
+<img width="1870" height="808" alt="Screenshot 2025-12-15 160711" src="https://github.com/user-attachments/assets/1adc0c27-ca01-4512-b807-c897cb7807c6" />
+
+
+**Chatbot Assistant - **
+<img width="1856" height="799" alt="Screenshot 2025-12-15 162938" src="https://github.com/user-attachments/assets/d057535a-8ffc-401b-b549-6cb3c5986123" />
+
+
+**Project Explorer - **
+<img width="1840" height="811" alt="Screenshot 2025-12-15 163151" src="https://github.com/user-attachments/assets/98d09260-fd6d-4bc6-8c73-4da92d299b0f" />
+
+
+**Test Generator - **
+<img width="1863" height="755" alt="Screenshot 2025-12-15 175413" src="https://github.com/user-attachments/assets/2003dcde-2a28-493b-8453-ae4ff1c9a0a5" />
+
+
+**Code Debugger - **
+<img width="1855" height="814" alt="Screenshot 2025-12-15 175615" src="https://github.com/user-attachments/assets/abe6efeb-4316-4078-bc17-58814eb13cdf" />
+
+
+**Code Reviewer - **
+<img width="1844" height="821" alt="Screenshot 2025-12-15 175711" src="https://github.com/user-attachments/assets/92fe3d70-e4ad-4bb7-8faf-50c0f6ed931d" />
+
+
+**Data Logs - **
+<img width="1835" height="798" alt="Screenshot 2025-12-15 175737" src="https://github.com/user-attachments/assets/97eb1ba6-8a3a-446b-a8a3-32af0bdad8ba" />
+
+
 ---
 
 ## 📝 License
