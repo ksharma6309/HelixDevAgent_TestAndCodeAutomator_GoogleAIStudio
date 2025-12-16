@@ -184,7 +184,7 @@ We chose **Google AI Studio** and the **Gemini 2.5 Flash** model as the core eng
 
 
 **Project Explorer -**
-<img width="1840" height="811" alt="Screenshot 2025-12-15 163151" src="https://github.com/user-attachments/assets/98d09260-fd6d-4bc6-8c73-4da92d299b0f" />
+<img width="1851" height="797" alt="image" src="https://github.com/user-attachments/assets/d5b2524f-8fe7-4029-87e2-e0e9c8e3ea89" />
 
 
 **Test Generator -**
